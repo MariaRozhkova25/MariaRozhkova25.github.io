@@ -1,0 +1,23 @@
+body {
+    font-family: Tahoma, serif;
+  }
+  .pasport {
+    border: 2px solid blue;
+    width: 500px;
+  }
+  .text {
+    font-size: 25px;
+    color:red ;
+  }
+  h1 {
+    color: green;
+  }
+  
+  #name:hover {
+    color: blueviolet;
+  }
+  
+  #surname:hover {
+    color: blueviolet;
+
+  }
